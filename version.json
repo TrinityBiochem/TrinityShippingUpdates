@@ -1,0 +1,10 @@
+{
+  "latest_version": "0.9.0",
+  "release_name": "Trinity Order Tracking v0.9.0",
+  "download_url": "https://github.com/TrinityBiochem/TrinityShipping",
+  "release_notes": [
+    "Initial update checker setup",
+    "Responsive resizing improvements",
+    "Order Entry layout and save button fixes"
+  ]
+}
